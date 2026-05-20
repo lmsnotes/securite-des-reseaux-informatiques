@@ -3,7 +3,7 @@ Python-based penetration testing framework developed for ethical hacking and net
 
 ## Overview
 
-This project was developed as part of the *Sécurité des Réseaux Informatiques d’Entreprise* course. It was done in pairs by Lisa-Marie DURIEUX and Nina PERRET
+This project was developed as part of the *Sécurité des Réseaux Informatiques d’Entreprise* course.
 
 The goal of this project is to design and implement a modular penetration testing framework in Python while applying the concepts studied during ethical hacking labs.
 
@@ -277,6 +277,8 @@ Possible future improvements include:
 # Authors
 
 Developed as part of the *Sécurité des Réseaux Informatiques d’Entreprise* course.
+Lisa Marie DURIEUX : https://github.com/lmsnotes/
+Nina PERRET : https://github.com/perretnina 
 
 ---
 
