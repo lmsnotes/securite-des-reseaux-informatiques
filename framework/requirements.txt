@@ -1,0 +1,7 @@
+python-whois
+shodan
+requests
+paramiko
+python-nmap
+python-dotenv
+
