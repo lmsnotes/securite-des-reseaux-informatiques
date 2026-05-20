@@ -1,9 +1,9 @@
-# securite-des-reseaux-informatiques
+# Sécurité des Réseaux Informatiques d'Entreprise - Projet
 Python-based penetration testing framework developed for ethical hacking and network security labs, featuring reconnaissance, scanning, enumeration, vulnerability analysis, and exploitation modules.
 
 ## Overview
 
-This project was developed as part of the *Sécurité des Réseaux Informatiques d’Entreprise* course. 
+This project was developed as part of the *Sécurité des Réseaux Informatiques d’Entreprise* course. It was done in pairs by Lisa-Marie DURIEUX and Nina PERRET
 
 The goal of this project is to design and implement a modular penetration testing framework in Python while applying the concepts studied during ethical hacking labs.
 
