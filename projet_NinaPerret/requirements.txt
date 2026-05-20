@@ -1,0 +1,20 @@
+# --- FICHIER DE CONFIGURATION TECHNIQUE (Requirements) ---
+# Projet : Simulation Phishing Erborian
+# Auteur : Nina PERRET
+
+[ENVIRONNEMENT SERVEUR]
+- Serveur Web : Apache 2.4+ (Standard XAMPP/WAMP)
+- Interpréteur : PHP 7.4 ou 8.x
+- Protocole : HTTP (localhost pour test)
+
+[DÉPENDANCES ET DROITS]
+- Accès Dossier : Permission d'écriture (CHMOD 755 ou 777) sur le répertoire du projet.
+  -> Nécessaire pour la génération automatique du fichier 'base_donnees_victimes.csv'.
+- Modules Apache : mod_php activé.
+
+[TEST ET COMPATIBILITÉ]
+- Navigateurs : Chrome, Firefox ou Edge (recommandé pour le rendu CSS).
+- Résolution : Responsive (optimisé pour Desktop et Mobile).
+
+# Note : Aucune bibliothèque externe (via Composer) n'est requise pour garantir
+# la portabilité et la simplicité de l'exfiltration.
